@@ -1,0 +1,1 @@
+export const DB_NAME = "Office_Node_Backend"
